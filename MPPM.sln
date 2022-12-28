@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPPM.Cryptography", "MPPM.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPPM.P2P", "MPPM.P2P\MPPM.P2P.csproj", "{F2C7491C-6FC0-42AB-8AD5-8B5F7B79B841}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPPM.Cryptography.Tests", "MPPM.Cryptography.Tests\MPPM.Cryptography.Tests.csproj", "{AAB87963-B258-46CB-9BA6-19E939CE6E1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{F2C7491C-6FC0-42AB-8AD5-8B5F7B79B841}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2C7491C-6FC0-42AB-8AD5-8B5F7B79B841}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2C7491C-6FC0-42AB-8AD5-8B5F7B79B841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB87963-B258-46CB-9BA6-19E939CE6E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB87963-B258-46CB-9BA6-19E939CE6E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB87963-B258-46CB-9BA6-19E939CE6E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB87963-B258-46CB-9BA6-19E939CE6E1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
